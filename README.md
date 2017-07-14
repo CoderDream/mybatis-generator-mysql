@@ -1,1 +1,3 @@
-# mybatis-generator-mysql
+
+
+	mybatis-generator:generate
